@@ -12,9 +12,14 @@ This project compares multiple machine learning models on the [Stores Area and S
 4. Select the best performing model
 
 🛠️ Tech Stack
+
 Python
+
 Scikit-learn
+
 Pandas, NumPy
-Jupyter Notebooks
+
+Google colab
+
 Matplotlib, Seaborn
 
